@@ -55,7 +55,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=manish0321s&theme=radical)](https://git.io/streak-stats)
 
 
-
+<p><img align="center" src="https://streak-stats.demolab.com?user=manish0321s&theme=radical" alt="manish0321s"/></p>
 
 
 
