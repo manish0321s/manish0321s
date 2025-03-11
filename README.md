@@ -8,7 +8,7 @@
  src="./programming.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish03216&label=Profile%20views&color=0e75b6&style=flat" alt="manish03216" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish0321s&label=Profile%20views&color=0e75b6&style=flat" alt="manish0321s" /> </p>
 
 - 🔭 I’m currently working on **Gaming website**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/manishjogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishjogi" height="30" width="40" />&nbsp;&nbsp;&nbsp;</a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mjmonster963" height="30" width="40" />&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish03216" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish0321s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,15 +44,15 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> &nbsp;&nbsp;&nbsp;</a> </p>
  <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish03216&show_icons=true&locale=en&layout=compact&theme=radical" alt="manish03216" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish0321s&show_icons=true&locale=en&layout=compact&theme=radical" alt="manish0321s" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manish03216&show_icons=true&locale=en&theme=radical" alt="manish03216" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manish0321s&show_icons=true&locale=en&theme=radical" alt="manish0321s" /></p>
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manish03216&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manish0321s&theme=radical)](https://git.io/streak-stats)
 
 
 
